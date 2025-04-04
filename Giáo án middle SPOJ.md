@@ -1,4 +1,4 @@
-# Buổi 1: Không chỉ là code
+# Buổi 1: Visual Code Studio & Markdown
 ***Tác giả: Hoàng Văn Chính D23***
 
 ## A. Mục tiêu
