@@ -1,6 +1,40 @@
 # Buổi 1: Visual Code Studio & Markdown
 ***Tác giả: Hoàng Văn Chính D23***
 
+- [Buổi 1: Visual Code Studio \& Markdown](#buổi-1-visual-code-studio--markdown)
+  - [A. Mục tiêu](#a-mục-tiêu)
+  - [B. Yêu cầu chuẩn bị (Người dạy)](#b-yêu-cầu-chuẩn-bị-người-dạy)
+  - [C. Yêu cầu chuẩn bị (Người học)](#c-yêu-cầu-chuẩn-bị-người-học)
+  - [D. Tiến trình bài giảng](#d-tiến-trình-bài-giảng)
+    - [I. Kiểm tra tiến độ SPOJ](#i-kiểm-tra-tiến-độ-spoj)
+    - [II. Visual Code Studio](#ii-visual-code-studio)
+      - [1. Giới thiệu chung](#1-giới-thiệu-chung)
+      - [2. Đặc điểm nổi bật](#2-đặc-điểm-nổi-bật)
+        - [a. Hỗ trợ đa nền tảng](#a-hỗ-trợ-đa-nền-tảng)
+        - [b. Hiệu suất cao và nhẹ](#b-hiệu-suất-cao-và-nhẹ)
+        - [c. Kho tiện ích mở rộng phong phú](#c-kho-tiện-ích-mở-rộng-phong-phú)
+        - [d. IntelliSense - Gợi ý mã thông minh](#d-intellisense---gợi-ý-mã-thông-minh)
+        - [e. Terminal tích hợp](#e-terminal-tích-hợp)
+      - [3. Sử dụng VS Code](#3-sử-dụng-vs-code)
+        - [a. Một số kiến thức cơ bản](#a-một-số-kiến-thức-cơ-bản)
+        - [a. IntelliSense trong VS Code](#a-intellisense-trong-vs-code)
+        - [b. Một số phím tắt trong VS Code (Phần này có thể cap màn hình gửi luôn cho các em, chú ý thực hành)](#b-một-số-phím-tắt-trong-vs-code-phần-này-có-thể-cap-màn-hình-gửi-luôn-cho-các-em-chú-ý-thực-hành)
+        - [c. Giới thiệu một số extension thường dùng](#c-giới-thiệu-một-số-extension-thường-dùng)
+    - [III. Debug trong VS Code](#iii-debug-trong-vs-code)
+    - [IV. Markdown \& GitHub cơ bản](#iv-markdown--github-cơ-bản)
+      - [1. Giới thiệu Markdown](#1-giới-thiệu-markdown)
+      - [2. Cú pháp cơ bản](#2-cú-pháp-cơ-bản)
+        - [a. Tiêu đề](#a-tiêu-đề)
+        - [b. Định dạng văn bản](#b-định-dạng-văn-bản)
+        - [c. Danh sách](#c-danh-sách)
+        - [d. Chèn liên kết \& hình ảnh](#d-chèn-liên-kết--hình-ảnh)
+        - [e. Đoạn mã nguồn (Code Block)](#e-đoạn-mã-nguồn-code-block)
+        - [f. Trích dẫn](#f-trích-dẫn)
+        - [g. Bảng](#g-bảng)
+      - [3. Cú pháp nâng cao](#3-cú-pháp-nâng-cao)
+      - [4. GitHub](#4-github)
+
+
 ## A. Mục tiêu
 1. Kiểm tra tiến độ SPOJ
 2. Hiểu vể Visual Code Studio
