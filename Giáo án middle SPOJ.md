@@ -41,6 +41,8 @@ Hướng dẫn nhanh nếu các em chưa cài được hoặc đang bị lỗi (
 
 **Trả lời: MinGW là bộ công cụ giúp biên dịch C/C++ trên Window. Khi chạy chương trình hệ thống sẽ tìm kiếm chương trình biên dịch nằm trong biến môi trường `Path`. Vì vậy kể cả đã tải MinGW nhưng chưa dẫn vào `Path` thì Window sẽ không tìm thấy trình biên dịch và báo lỗi**
 
+---
+
 ### I. Lý do chuyển sang VS Code
 > Câu hỏi: Tại sao lại bắt đầu bằng Dev C++?
 
@@ -57,6 +59,8 @@ Hướng dẫn nhanh nếu các em chưa cài được hoặc đang bị lỗi (
 
 ### II. Giới thiệu chung
 Visual Studio Code (VS Code) là một trình soạn thảo mã nguồn miễn phí và mạnh mẽ do Microsoft phát triển. Nó hỗ trợ nhiều ngôn ngữ lập trình, có khả năng mở rộng với các tiện ích (extensions) và tích hợp nhiều công cụ hỗ trợ lập trình viên.
+
+---
 
 ### III. Đặc điểm nổi bật
 #### 1. Hỗ trợ đa nền tảng
@@ -77,6 +81,8 @@ Visual Studio Code (VS Code) là một trình soạn thảo mã nguồn miễn p
 
 #### 5. Terminal tích hợp
 - Giúp chạy lệnh trực tiếp mà không cần mở terminal bên ngoài.
+
+---
 
 ### IV. Sử dụng VS Code
 #### 1. Một số kiến thức cơ bản
